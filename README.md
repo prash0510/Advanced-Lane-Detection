@@ -1,6 +1,5 @@
 # Lane_Detection
 Lane_Detection using opencv_python_Hough_Lines
-ENPM673 - Project 1
 
 Python version - Python 3.6.3
 OpenCV version - 4.1.2
